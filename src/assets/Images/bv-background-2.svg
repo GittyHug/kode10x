@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="857" height="69" viewBox="0 0 857 69" fill="none">
+  <path d="M520.451 56.4326L525.29 61.2778L520.451 66.1231" stroke="#77989F" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M341.574 30.9486L371.548 60.96H523.674" stroke="#77989F" stroke-width="2.5" stroke-linecap="round"></path>
+  <rect x="-1.41333" width="9.27514" height="9.27514" transform="matrix(0.706665 0.707548 0.706665 -0.707548 434.949 61.96)" fill="#77989F" stroke="#77989F" stroke-width="2"></rect>
+  <path d="M265.641 54.9805L270.48 50.1352L265.641 45.29" stroke="#FFC629" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M33.5859 16.2559L38.4251 11.4106L33.5859 6.56541" stroke="#FFC629" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M2 11.4062H73.2284L114.16 50.4533H268.22" stroke="#FFC629" stroke-width="2.5" stroke-linecap="round"></path>
+  <rect x="-1.76666" width="9.77514" height="9.77514" transform="matrix(0.706665 -0.707548 0.706665 0.707548 214.201 49.1875)" fill="white" stroke="#FFC629" stroke-width="2.5"></rect>
+  <rect width="7.27514" height="7.27514" transform="matrix(0.706665 -0.707548 0.706665 0.707548 616.916 9.79297)" fill="#F56F46"></rect>
+  <rect x="837.705" y="43.6992" width="17.4575" height="17.4761" rx="8.72873" fill="white" stroke="#F56F46" stroke-width="2.5"></rect>
+  <rect x="842.699" y="48.6992" width="7.49376" height="7.5" rx="3.74688" fill="white" stroke="#F56F46" stroke-width="2.5"></rect>
+  <path d="M442.23 30.4464L471.237 9.4707H669.774L714.252 53.681H837.371" stroke="#F56F46" stroke-width="2.5" stroke-linecap="round"></path>
+  <rect x="-1.76666" width="9.77514" height="9.77514" transform="matrix(0.706665 -0.707548 0.706665 0.707548 513.263 7.89746)" fill="white" stroke="#F56F46" stroke-width="2.5"></rect>
+  <path d="M497.695 35.9492L502.534 31.104L497.695 26.2588" stroke="black" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M156.703 35.9492L161.542 31.104L156.703 26.2588" stroke="black" stroke-width="2.5" stroke-linecap="round"></path>
+  <path d="M3.99609 30.9492H809.989" stroke="url(#paint0_linear_2289_120922)" stroke-width="2.5" stroke-linecap="round"></path>
+  <rect x="316.354" y="21.6992" width="17.4575" height="17.4761" rx="8.72873" fill="white" stroke="black" stroke-width="2.5"></rect>
+  <rect x="321.348" y="26.6992" width="7.49376" height="7.5" rx="3.74688" fill="black" stroke="black" stroke-width="2.5"></rect>
+  <defs>
+    <linearGradient id="paint0_linear_2289_120922" x1="372.036" y1="30.9492" x2="782.523" y2="30.9492" gradientUnits="userSpaceOnUse">
+      <stop></stop>
+      <stop offset="1" stop-opacity="0"></stop>
+    </linearGradient>
+  </defs>
+</svg>
